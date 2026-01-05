@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.2](https://github.com/dragan-jotanovic/venue-adapters/compare/v0.1.1...v0.1.2) (2026-01-05)
+
+### Features
+
+* LCPI-0000 - Removed redundant files ([4eae4af](https://github.com/dragan-jotanovic/venue-adapters/commit/4eae4af296ff8c05e0de35c5b0befc73924451f3))
+
 ## 0.1.1 (2026-01-05)
 
 ### Features
