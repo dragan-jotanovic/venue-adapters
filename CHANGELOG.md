@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.4](https://github.com/dragan-jotanovic/venue-adapters/compare/v0.1.3...v0.1.4) (2026-01-14)
+
+### Bug Fixes
+
+* LCPI-000 - Preparation for new release ([b5b3071](https://github.com/dragan-jotanovic/venue-adapters/commit/b5b307110b7ba6d3b6a301c0c667f528856c03c5))
+
 ## [0.1.3](https://github.com/dragan-jotanovic/venue-adapters/compare/v0.1.2...v0.1.3) (2026-01-08)
 
 ### Features
