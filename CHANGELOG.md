@@ -15,7 +15,6 @@
 ### Bug Fixes
 
 * LCP-000 - Fix scripts permissions ([f7bebde](https://github.com/dragan-jotanovic/venue-adapters/commit/f7bebde2c76d11549342948cdcb51a24d3c3a974))
-* LCP-000 - Fixed typo ([6accd69](https://github.com/dragan-jotanovic/venue-adapters/commit/6accd69d8bb028918c38dabb6bd11bff9859d00b))
 
 ## [0.1.2](https://github.com/dragan-jotanovic/venue-adapters/compare/v0.1.1...v0.1.2) (2026-01-05)
 
