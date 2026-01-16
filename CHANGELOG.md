@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.2.1](https://github.com/dragan-jotanovic/venue-adapters/compare/v0.1.4...v0.2.1) (2026-01-16)
+
+### Features
+
+* LCPI-000 - Added title to readme ([4a34f93](https://github.com/dragan-jotanovic/venue-adapters/commit/4a34f9310c4c1a0b202ecb4fcdbfaba472d40863))
+
+### Bug Fixes
+
+* LCPI-000 - Fixed changelog ([3bf3717](https://github.com/dragan-jotanovic/venue-adapters/commit/3bf37172841e0b95ac516b9a8c1de01ea493401f))
+
 ## [0.1.4](https://github.com/dragan-jotanovic/venue-adapters/compare/v0.1.3...v0.1.4) (2026-01-14)
 
 ### Bug Fixes
