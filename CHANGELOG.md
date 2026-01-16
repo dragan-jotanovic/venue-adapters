@@ -4,7 +4,7 @@
 
 ### Features
 
-* LCPI-000 - Added title to readme ([4a34f93](https://github.com/dragan-jotanovic/venue-adapters/commit/4a34f9310c4c1a0b202ecb4fcdbfaba472d40863))
+* LCPI-000 - Added title to readme file ([4a34f93](https://github.com/dragan-jotanovic/venue-adapters/commit/4a34f9310c4c1a0b202ecb4fcdbfaba472d40863))
 
 ### Bug Fixes
 
