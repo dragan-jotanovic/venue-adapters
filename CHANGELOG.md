@@ -26,7 +26,7 @@
 
 ### Features
 
-* LCPI-000 - Added scripts ([6d41677](https://github.com/dragan-jotanovic/venue-adapters/commit/6d416772684ad87c7421b935aedeb3ec7b566055))
+* LCPI-000 - Added build scripts ([6d41677](https://github.com/dragan-jotanovic/venue-adapters/commit/6d416772684ad87c7421b935aedeb3ec7b566055))
 
 ### Bug Fixes
 
