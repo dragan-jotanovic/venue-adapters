@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.3.2](https://github.com/dragan-jotanovic/venue-adapters/compare/v0.3.1...v0.3.2) (2026-01-19)
+
+### Bug Fixes
+
+* Updated changelog ([40f5168](https://github.com/dragan-jotanovic/venue-adapters/commit/40f51682dddcb4ab01c455443e26509d15b55098))
+
 ## [0.3.1](https://github.com/dragan-jotanovic/venue-adapters/compare/v0.2.1...v0.3.1) (2026-01-16)
 
 ### Bug Fixes
